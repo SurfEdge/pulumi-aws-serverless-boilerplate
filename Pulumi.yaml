@@ -1,0 +1,3 @@
+name: pulumi-aws-serverless-boilerplate
+runtime: nodejs
+description: A starting point for Pulumi to use AWS APIG, Lambda, DynamoDB stack. In TS
